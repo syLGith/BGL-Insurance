@@ -7,3 +7,5 @@ We’ve identified BGL’s business use case as maximising its business profits.
 
 Our identified business use case is to utilize data-driven insights to help BGL optimize business profits amidst the competitive insurance landscape. A factor analysis framework as outlined below provides an overview on the key business modules that we will be focusing on:
 ![image](https://user-images.githubusercontent.com/113580303/205270921-e5e5821b-888c-4ccb-ab2e-c349e2489d70.png)
+
+The above flow chart clearly defines BGL’s business task, and shows how the various descriptive, prescriptive, diagnostic, and predictive analysis cascade accordingly. 
